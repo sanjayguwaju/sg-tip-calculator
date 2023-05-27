@@ -11,3 +11,5 @@ export const Summary = ({ subtotal = 0, tipAmount = 0, total = 0 }) => {
     </Stack>
   );
 };
+
+export default Summary;
