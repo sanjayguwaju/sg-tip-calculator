@@ -1,9 +1,7 @@
 import { Card } from '@twilio-paste/core';
-import { TipSelectContainer } from '../containers/TipSelectContainer';
-
 import { MenuItemsContainer } from '../containers/MenuItemsContainer';
-import { MenuItems } from './MenuItems';
 import {NewItemFormContainer } from '../containers/NewItemFormContainer';
+import { TipSelectContainer } from '../containers/TipSelectContainer';
 import { SummaryContainer } from '../containers/SummaryContainer';
 
 const Calculator = () => {
